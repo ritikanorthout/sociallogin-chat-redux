@@ -1,0 +1,10 @@
+.logouButton {
+  background-color: white;
+  color: black;
+  border: 1px solid rgb(7, 7, 7);
+  cursor: pointer;
+  position: inherit;
+  margin-left: 1200px;
+  top: 30px;
+  right: 30px;
+}

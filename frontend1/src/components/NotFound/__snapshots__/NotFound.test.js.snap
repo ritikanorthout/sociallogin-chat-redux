@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound renders without crashing 1`] = `
+<div>
+  <div
+    class="row small-up-2 medium-up-3 large-up-4"
+    id="Body"
+  >
+    <div
+      class="medium-12 columns"
+    >
+      <h2>
+        404 Page
+      </h2>
+    </div>
+  </div>
+</div>
+`;

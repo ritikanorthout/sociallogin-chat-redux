@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound renders without crashing 1`] = `
+<div>
+  <div>
+     
+    <section
+      class="login_container"
+    >
+      <div
+        class="container-fluid h-100"
+      >
+        <div
+          class="row h-100"
+        >
+          <div
+            class="reg-container col-sm-5"
+          >
+            <div>
+              <h1>
+                Register
+              </h1>
+              <form
+                class=""
+              >
+                <div
+                  class="form-group"
+                >
+                  <label
+                    class=""
+                    for="name"
+                  >
+                    Username
+                  </label>
+                  <input
+                    class="form-control"
+                    id="name"
+                    name="name"
+                    placeholder="Username"
+                    required=""
+                    type="text"
+                    value=""
+                  />
+                </div>
+                <div
+                  class="form-group"
+                >
+                  <label
+                    class=""
+                    for="email"
+                  >
+                    Email
+                  </label>
+                  <input
+                    class="form-control"
+                    id="email"
+                    name="email"
+                    placeholder="Email"
+                    required=""
+                    type="text"
+                    value=""
+                  />
+                </div>
+                <div
+                  class="form-group"
+                >
+                  <label
+                    class=""
+                    for="mobile"
+                  >
+                    Mobile
+                  </label>
+                  <input
+                    class="form-control"
+                    id="mobile"
+                    name="mobile"
+                    placeholder="Mobile"
+                    required=""
+                    type="text"
+                    value=""
+                  />
+                </div>
+                <div
+                  class="form-group"
+                >
+                  <label
+                    class=""
+                    for="examplePassword"
+                  >
+                    Password
+                  </label>
+                  <input
+                    class="form-control"
+                    id="examplePassword"
+                    name="password"
+                    placeholder="********"
+                    required=""
+                    type="password"
+                    value=""
+                  />
+                </div>
+                <div
+                  class="form-group"
+                >
+                  <button
+                    class="reg_btn btn btn-secondary"
+                    type="submit"
+                  >
+                    REGISTER
+                  </button>
+                  <p>
+                    Having account !
+                     
+                    <a
+                      href="/"
+                    >
+                       Login 
+                    </a>
+                     
+                  </p>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

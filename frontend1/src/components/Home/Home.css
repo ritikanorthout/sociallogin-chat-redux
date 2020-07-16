@@ -1,0 +1,35 @@
+.detail-container {
+  background-color: #f4f5f7;
+  height: 100vh;
+}
+
+.containers {
+  width: 500px;
+  position: absolute;
+  height: 400px;
+  margin: 20px 10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  text-align: center;
+  border-style: groove;
+  border-color: #f4f5f7;
+}
+.containers img {
+  margin-top: 40px;
+  border-radius: 12px;
+}
+
+
+.containers2 {
+  width: 500px;
+  background-color: white;
+  text-align: center;
+  border-style: groove;
+  border-color: #f4f5f7;
+}
+
+.text {
+  font-size: 25px;
+}

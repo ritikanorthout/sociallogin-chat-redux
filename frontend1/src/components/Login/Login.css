@@ -1,0 +1,64 @@
+body,
+#root {
+  height: 100%;
+  /* hsl(0, 21%, 81%) */
+}
+.login_container {
+  background-color: #f4f5f7;
+  height: 100vh;
+}
+.logn_bg {
+  position: relative;
+  background-color: #ffccff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.brand_log {
+  width: 300px;
+}
+.kep-login-facebook {
+  width: 220px !important;
+  font-size: 14px !important;
+  margin-bottom: 20px;
+  padding: 10px !important;
+  margin: 5px;
+  border-radius: 5px !important;
+  height: 55px;
+}
+.login-container {
+  margin-top: 100px;
+  margin-left: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-style: groove;
+  border-color: #f4f5f7;
+  height: 550px;
+  width: 400px;
+}
+.login-container h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+.login-container h6 {
+  font-size: 20px;
+  margin-left: 95px;
+  margin-top: 5px;
+}
+.login_btn {
+  background-color: rgb(127, 168, 243);
+  border-radius: 10px;
+  padding: 8px 30px;
+  margin-top: 30px;
+  width: 300px;
+}
+.loginBtn {
+  width: 220px;
+  margin-top: -20px;
+  margin-left: 5px;
+  height: 55px;
+}

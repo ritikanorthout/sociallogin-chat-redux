@@ -1,0 +1,52 @@
+body,
+#root {
+  height: 100%;
+}
+.login_container {
+  background-color: #f4f5f7;
+  height: 100vh;
+}
+.logn_bg {
+  position: relative;
+  background-color: #ffccff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.brand_log {
+  width: 300px;
+}
+
+.reg-container {
+  margin-top: 100px;
+  margin-left: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-style: groove;
+  border-color: #f4f5f7;
+  height: 550px;
+  width: 400px;
+}
+.reg-container h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.reg_btn {
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  order: none;
+  padding: 8px 30px;
+  margin: 5px;
+  width: 350px;
+}
+
+
+.error{
+  color: red;
+  margin-top: -15px;
+}

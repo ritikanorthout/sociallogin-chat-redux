@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders without crashing 1`] = `
+<div>
+  <div>
+    <div
+      class="row"
+      id="footer"
+    >
+      <div
+        class="medium-12 columns"
+      >
+        <p />
+      </div>
+    </div>
+  </div>
+</div>
+`;
